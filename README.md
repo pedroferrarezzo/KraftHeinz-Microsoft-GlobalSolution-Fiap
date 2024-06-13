@@ -18,3 +18,7 @@ Tarefas: Estruture uma apresentação com os itens abaixo e grave um pitch de 3 
 
 # MODELAGEM DE ENTIDADE E RELACIONAMENTO
 ![image](https://github.com/pedroferrarezzo/KraftHeinz-Microsoft-GlobalSolution-Fiap/assets/124400471/1fe9858d-5bc5-4de7-bba6-65514a4da096)
+
+# PITCH
+https://github.com/pedroferrarezzo/KraftHeinz-Microsoft-GlobalSolution-Fiap/assets/124400471/bc6e2d71-0b94-4edb-b9ec-52fd71f8d7c9
+
